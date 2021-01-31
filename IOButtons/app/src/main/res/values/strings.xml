@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IOButtons</string>
+    <string name="txtBtnExternal">Read External</string>
+    <string name="txtBtnWriteExternal">Write External</string>
+    <string name="txtBtnWriteInternal">Write Internal</string>
+    <string name="txtBtnReadInternal">Read Internal</string>
+    <string name="txtBtnExternalTest">ExternalTest</string>
+</resources>

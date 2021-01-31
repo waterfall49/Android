@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrefDemo</string>
+    <string name="btnText">Save</string>
+</resources>

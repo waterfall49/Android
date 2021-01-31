@@ -1,0 +1,20 @@
+activity
+app
+application Components
+android application package file
+android operating system
+anonymous inner
+broadcast receiver
+content provider
+hash table or hash map
+intent
+intent actions
+intent object
+manifest
+SDK
+service
+start
+Intent filter
+util
+view
+widget

@@ -1,0 +1,5 @@
+
+- Species: Penguin, Sex: Male, Weight : 23.3, Blood Pressure: 123.0,
+   GPS information: 12.124 -32.324
+- Species: Walrus, Sex: Male, Weight : 22.3 Dental Health: Good,
+   GPS information: 12.323 -32.323

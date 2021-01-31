@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coffee Choice</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="tvReset">Please press the button to reset your choice</string>
+    <string-array name="coffee">
+        <item>Cappuccino Oriental</item>
+        <item>Flat white</item>
+        <item>Soft ginger latte</item>
+        <item>Hazelnut affogato</item>
+        <item>Latte hazelnut</item>
+        <item>Long black ice</item>
+        <item>Esspresso macchiato</item>
+        <item>Mocca latte</item>
+        <item>Reverso intenso</item>
+        <item>Tiramisu cappuccino</item>
+    </string-array>
+</resources>

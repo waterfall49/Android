@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="tvTitle">Description</string>
+    <string name="tvTerm">Choose right answer</string>
+    <string name="tvQuiz">Let\'s start quiz</string>
+    <string name="tvCongrat">Thank you!</string>
+    <string name="tvScore">Your score is</string>
+    <string name="btnStart">Start</string>
+    <string name="btnSave">Save</string>
+    <string name="btnNext">Next</string>
+    <string name="btnFinish">Finish</string>
+    <string name="btnRestart">Restart</string>
+</resources>

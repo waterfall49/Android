@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Puppyshake</string>
+    <string name="btnShake">Shake</string>
+</resources>
